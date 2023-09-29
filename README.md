@@ -1,4 +1,10 @@
-### Hi there 👋
+
+![Stats 2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4marnath&theme=github_dark)
+
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4marnath&theme=github_dark&exclude={exclude})
+
+![LangbyCommit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4marnath&theme=github_dark&exclude={exclude})
+
 
 <!--
 **4marnath/4marnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
